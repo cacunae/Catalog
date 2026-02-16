@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Mock Product 2</title>
+  <desc id="desc">Placeholder image for layout testing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#181818" />
+      <stop offset="100%" stop-color="#101010" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)" />
+  <rect x="120" y="120" width="560" height="760" rx="20" fill="#202020" stroke="#2d2d2d" stroke-width="2" />
+  <path d="M220 260h360v440H220z" fill="#151515" stroke="#3a3a3a" stroke-width="2" />
+  <line x1="220" y1="260" x2="580" y2="700" stroke="#4e4e4e" stroke-width="2" />
+  <line x1="580" y1="260" x2="220" y2="700" stroke="#4e4e4e" stroke-width="2" />
+  <text x="400" y="945" text-anchor="middle" fill="#9aa0b4" font-family="Arial, sans-serif" font-size="26" letter-spacing="8">PRODUCT</text>
+</svg>

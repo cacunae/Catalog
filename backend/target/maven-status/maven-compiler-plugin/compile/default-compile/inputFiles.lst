@@ -1,0 +1,10 @@
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\model\Product.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\repository\ProductRepository.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\dto\ApiErrorResponse.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\CatalogBackendApplication.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\dto\ProductListResponse.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\exception\GlobalExceptionHandler.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\controller\HealthController.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\controller\ProductController.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\exception\ResourceNotFoundException.java
+C:\Users\nakar\Escritorio\Catalog\backend\src\main\java\com\catalogo\backend\service\ProductService.java

@@ -1,0 +1,6 @@
+com\catalogo\backend\model\Product.class
+com\catalogo\backend\service\ProductService.class
+com\catalogo\backend\repository\ProductRepository.class
+com\catalogo\backend\controller\HealthController.class
+com\catalogo\backend\CatalogBackendApplication.class
+com\catalogo\backend\repository\ProductRepository$1.class
