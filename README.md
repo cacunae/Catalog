@@ -106,7 +106,7 @@ curl "http://localhost:8080/api/products?size=0"
 
 ## 6. Levantar frontend (React + Vite)
 
-1. En otra terminal en dirigirse a carpeta de front end:
+1. En otra terminal dirigirse a la carpeta de front end:
 
 ```powershell
 cd frontend/front
