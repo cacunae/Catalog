@@ -25,10 +25,12 @@ Versiones de este entorno:
 
 ## 2. Verificar instalaciones
 
+```text
 java -version
 mvn -version
 node -v
 npm -v o npm.cmd -v
+```
 
 
 ## 3. Estructura del proyecto
